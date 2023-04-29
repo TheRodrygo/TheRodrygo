@@ -23,7 +23,7 @@ Olá! Meu nome é Rodrigo de Oliveira, tenho 25 anos e sou um desenvolvedor Andr
 
 - Email: [rodrigjob@gmail.com](mailto:rodrigjob@gmail.com)
 - LinkedIn: [Rodrigo de Oliveira](https://www.linkedin.com/in/rodrigdeveloper/)
-- GitHub: [RodrigoGitHub](https://github.com/therodrygo)
+- GitHub: [Rodrigo GitHub](https://github.com/therodrygo)
 
 ## 📚 Últimos projetos nesse github
 
